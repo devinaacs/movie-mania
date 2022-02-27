@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "name": "Patrick Wilson",
+    "profilePict": "https://i.pinimg.com/474x/16/ed/58/16ed58e84de3287799f065826973a8b7--patrick-wilson-patrick-obrian.jpg",
+    "createdAt": "2022-02-06T11:15:02.126Z",
+    "updatedAt": "2022-02-06T11:15:02.126Z"
+  },
+  {
+    "id": 2,
+    "movieId": 1,
+    "name": "Vera Farmiga",
+    "profilePict": "https://media.glamour.com/photos/5696665516d0dc3747f01f4d/master/w_1600%2Cc_limit/beauty-blogs-girls-in-the-beauty-department-2011-08-19-0816-vera_farmiga_short_haircut_bd.jpeg",
+    "createdAt": "2022-02-06T11:15:02.426Z",
+    "updatedAt": "2022-02-06T11:15:02.426Z"
+  },
+  {
+    "id": 3,
+    "movieId": 1,
+    "name": "Katie Sarife",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BYjcyNzgxMzktZDA4Yy00ZTE3LWJkMTMtOTNjMjc4Yzc0MTNiXkEyXkFqcGdeQXVyMTk2NTM4NzY@._V1.jpg",
+    "createdAt": "2022-02-06T11:15:19.349Z",
+    "updatedAt": "2022-02-06T11:15:19.349Z"
+  },
+  {
+    "id": 6,
+    "movieId": 2,
+    "name": "Sophia Lillis ",
+    "profilePict": "https://s2.r29static.com/bin/entry/1a7/x/1851060/image.png",
+    "createdAt": "2022-02-06T11:20:08.585Z",
+    "updatedAt": "2022-02-06T11:20:08.585Z"
+  },
+  {
+    "id": 4,
+    "movieId": 2,
+    "name": "Bill Skarsgård",
+    "profilePict": "https://i.insider.com/59b9aac7ba785e5d3a172975?width=1000&format=jpeg&auto=webp",
+    "createdAt": "2022-02-06T11:20:08.033Z",
+    "updatedAt": "2022-02-06T11:20:08.033Z"
+  },
+  {
+    "id": 5,
+    "movieId": 2,
+    "name": "Jaeden Martell",
+    "profilePict": "https://www.thewikifeed.com/wp-content/uploads/2021/05/jaeden-martell-1.jpg",
+    "createdAt": "2022-02-06T11:20:08.318Z",
+    "updatedAt": "2022-02-06T11:20:08.318Z"
+  },
+  {
+    "id": 7,
+    "movieId": 3,
+    "name": "Daniel Radcliffe",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BZmE0NzNiNzQtYTVlYS00MjljLWE4MTgtYzYxNjU2NjZkM2M4XkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_.jpg",
+    "createdAt": "2022-02-06T11:26:27.985Z",
+    "updatedAt": "2022-02-06T11:26:27.985Z"
+  },
+  {
+    "id": 9,
+    "movieId": 3,
+    "name": "Rupert Grint",
+    "profilePict": "https://i.pinimg.com/originals/5a/4b/08/5a4b086d05b2533fe6c120931aaed8c7.jpg",
+    "createdAt": "2022-02-06T11:27:38.415Z",
+    "updatedAt": "2022-02-06T11:27:38.415Z"
+  },
+  {
+    "id": 8,
+    "movieId": 3,
+    "name": "Emma Watson",
+    "profilePict": "https://media.vanityfair.com/photos/60a3d27e292c88dd8b5007a1/master/pass/480403143",
+    "createdAt": "2022-02-06T11:27:38.118Z",
+    "updatedAt": "2022-02-06T11:27:38.118Z"
+  },
+  {
+    "id": 11,
+    "movieId": 4,
+    "name": "Matthew Lewis",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMTUxMzU4NjE3NF5BMl5BanBnXkFtZTgwMzgyNDEwOTE@._V1_.jpg",
+    "createdAt": "2022-02-06T11:27:38.942Z",
+    "updatedAt": "2022-02-06T11:27:38.942Z"
+  },
+  {
+    "id": 10,
+    "movieId": 4,
+    "name": "Tom Felton",
+    "profilePict": "https://i0.web.de/image/562/36200562,pd=3.jpg",
+    "createdAt": "2022-02-06T11:27:38.681Z",
+    "updatedAt": "2022-02-06T11:27:38.681Z"
+  },
+  {
+    "id": 12,
+    "movieId": 4,
+    "name": "Alan Rickman",
+    "profilePict": "https://promotions.b-cdn.net/galleryimage/1179295/alan-rickman-erdekesseg-halal-evfordulo-harry-potter-piton-promotions-hu-3.jpg",
+    "createdAt": "2022-02-06T11:27:39.206Z",
+    "updatedAt": "2022-02-06T11:27:39.206Z"
+  },
+  {
+    "id": 15,
+    "movieId": 5,
+    "name": "Mark Rylance",
+    "profilePict": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/ready-player-one-anorak-artwork-slavei-hristov.jpg",
+    "createdAt": "2022-02-06T11:35:54.420Z",
+    "updatedAt": "2022-02-06T11:35:54.420Z"
+  },
+  {
+    "id": 13,
+    "movieId": 5,
+    "name": "Tye Sheridan",
+    "profilePict": "https://leganerd.com/wp-content/uploads/2018/02/ready-player-one.jpg",
+    "createdAt": "2022-02-06T11:35:53.905Z",
+    "updatedAt": "2022-02-06T11:35:53.905Z"
+  },
+  {
+    "id": 14,
+    "movieId": 5,
+    "name": "Olivia Cooke",
+    "profilePict": "https://nwn.blogs.com/.a/6a00d8341bf74053ef01bb09f4f68c970d-800wi",
+    "createdAt": "2022-02-06T11:35:54.162Z",
+    "updatedAt": "2022-02-06T11:35:54.162Z"
+  },
+  {
+    "id": 17,
+    "movieId": 6,
+    "name": "Tobey Maguire",
+    "profilePict": "https://statics.indozone.news/content/2022/01/03/d5soE7O/muncul-di-no-way-home-ini-sederet-alasan-spider-man-tobey-maguire-disebut-pahlawan92_700.jpg",
+    "createdAt": "2022-02-06T11:44:39.038Z",
+    "updatedAt": "2022-02-06T11:44:39.038Z"
+  },
+  {
+    "id": 16,
+    "movieId": 6,
+    "name": "Tom Holland",
+    "profilePict": "https://3.bp.blogspot.com/-mzoNkL9_eHE/XNrfh-mrQHI/AAAAAAAAPWc/fc9j2VYmJ50eUm2CbCoOFjlLeysCYi8pACLcBGAs/s640/Tom%2BHolland.jpg",
+    "createdAt": "2022-02-06T11:44:38.779Z",
+    "updatedAt": "2022-02-06T11:44:38.779Z"
+  },
+  {
+    "id": 18,
+    "movieId": 6,
+    "name": "Andrew Garfield",
+    "profilePict": "https://i.pinimg.com/474x/e5/e0/5b/e5e05ba78b5957cea33a9666f4aaf3a6.jpg",
+    "createdAt": "2022-02-06T11:44:39.297Z",
+    "updatedAt": "2022-02-06T11:44:39.297Z"
+  },
+  {
+    "id": 19,
+    "movieId": 7,
+    "name": "Tom Holland",
+    "profilePict": "https://cdn.faceshapeapp.com/q/xboyyLe_JpABNEJw__828x1104.png?w=640",
+    "createdAt": "2022-02-06T11:44:39.555Z",
+    "updatedAt": "2022-02-06T11:44:39.555Z"
+  },
+  {
+    "id": 21,
+    "movieId": 7,
+    "name": "Jake Gyllenhaal",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BNjA0MTU2NDY3MF5BMl5BanBnXkFtZTgwNDU4ODkzMzE@._V1_.jpg",
+    "createdAt": "2022-02-06T11:44:40.075Z",
+    "updatedAt": "2022-02-06T11:44:40.075Z"
+  },
+  {
+    "id": 20,
+    "movieId": 7,
+    "name": "Zendaya",
+    "profilePict": "https://upload.wikimedia.org/wikipedia/commons/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg",
+    "createdAt": "2022-02-06T11:44:39.814Z",
+    "updatedAt": "2022-02-06T11:44:39.814Z"
+  },
+  {
+    "id": 24,
+    "movieId": 8,
+    "name": "Bront Palarae",
+    "profilePict": "https://i.pinimg.com/736x/49/bb/a6/49bba686b29201df3facf599d86b148f.jpg",
+    "createdAt": "2022-02-06T11:51:44.623Z",
+    "updatedAt": "2022-02-06T11:51:44.623Z"
+  },
+  {
+    "id": 22,
+    "movieId": 8,
+    "name": "Tara Basro",
+    "profilePict": "https://www.kviff.com/en/image/fancybox/238410/2c10/actress-tara-basro.jpg",
+    "createdAt": "2022-02-06T11:51:44.106Z",
+    "updatedAt": "2022-02-06T11:51:44.106Z"
+  },
+  {
+    "id": 23,
+    "movieId": 8,
+    "name": "Ayu Laksmi",
+    "profilePict": "https://awsimages.detik.net.id/community/media/visual/2017/10/25/2f6aeaa6-002e-474c-ba06-bcae18f224ae_43.jpg?w=700&q=90",
+    "createdAt": "2022-02-06T11:51:44.364Z",
+    "updatedAt": "2022-02-06T11:51:44.364Z"
+  },
+  {
+    "id": 25,
+    "movieId": 9,
+    "name": "Stephen Lang",
+    "profilePict": "https://static.cinemagia.ro/img/resize/db/actor/00/76/56/stephen-lang-609923l-600x0-w-cdb43a14.jpg",
+    "createdAt": "2022-02-06T11:51:44.881Z",
+    "updatedAt": "2022-02-06T11:51:44.881Z"
+  },
+  {
+    "id": 27,
+    "movieId": 9,
+    "name": "Dylan Minnette",
+    "profilePict": "https://variety.com/wp-content/uploads/2017/08/dylan-minnette-13-reasons-why-variety-power-of-youth.jpg",
+    "createdAt": "2022-02-06T11:51:45.395Z",
+    "updatedAt": "2022-02-06T11:51:45.395Z"
+  },
+  {
+    "id": 26,
+    "movieId": 9,
+    "name": "Jane Levy",
+    "profilePict": "https://media.vanityfair.com/photos/60c3bd798d8df3ba663e2c58/2:3/w_887,h_1331,c_limit/Jane_Levy-Interview-Tout.jpg",
+    "createdAt": "2022-02-06T11:51:45.138Z",
+    "updatedAt": "2022-02-06T11:51:45.138Z"
+  },
+  {
+    "id": 28,
+    "movieId": 10,
+    "name": "MA Dong-seok",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMjJkNTk0NGQtOGU3NS00M2JlLTg2NzktNjQ1ZTU2YzU0YWI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "createdAt": "2022-02-06T12:05:03.716Z",
+    "updatedAt": "2022-02-06T12:05:03.716Z"
+  },
+  {
+    "id": 29,
+    "movieId": 10,
+    "name": "Kim Su-an",
+    "profilePict": "https://www.nautiljon.com/images/people/00/50/kim_su_an_54305.jpg",
+    "createdAt": "2022-02-06T12:05:03.974Z",
+    "updatedAt": "2022-02-06T12:05:03.974Z"
+  },
+  {
+    "id": 30,
+    "movieId": 10,
+    "name": "Gong Yoo",
+    "profilePict": "http://res.heraldm.com/content/image/2016/07/20/20160720001482_0.jpg",
+    "createdAt": "2022-02-06T12:05:04.232Z",
+    "updatedAt": "2022-02-06T12:05:04.232Z"
+  },
+  {
+    "id": 32,
+    "movieId": 11,
+    "name": "Gwilym Lee",
+    "profilePict": "https://images.moviefit.me/p/b/1/32139-gwilym-lee.webp",
+    "createdAt": "2022-02-06T12:05:04.747Z",
+    "updatedAt": "2022-02-06T12:05:04.747Z"
+  },
+  {
+    "id": 33,
+    "movieId": 11,
+    "name": "Ben Hardy",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMjAzMDExNDYxMl5BMl5BanBnXkFtZTgwODY2MTE2NjM@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+    "createdAt": "2022-02-06T12:05:05.006Z",
+    "updatedAt": "2022-02-06T12:05:05.006Z"
+  },
+  {
+    "id": 31,
+    "movieId": 11,
+    "name": "Rami Malek",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_.jpg",
+    "createdAt": "2022-02-06T12:05:04.490Z",
+    "updatedAt": "2022-02-06T12:05:04.490Z"
+  },
+  {
+    "id": 36,
+    "movieId": 12,
+    "name": "John Legend",
+    "profilePict": "https://upload.wikimedia.org/wikipedia/commons/0/04/John_Legend_2019_by_Glenn_Francis.jpg",
+    "createdAt": "2022-02-06T12:13:08.089Z",
+    "updatedAt": "2022-02-06T12:13:08.089Z"
+  },
+  {
+    "id": 34,
+    "movieId": 12,
+    "name": "Emma Stone",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_.jpg",
+    "createdAt": "2022-02-06T12:13:07.573Z",
+    "updatedAt": "2022-02-06T12:13:07.573Z"
+  },
+  {
+    "id": 35,
+    "movieId": 12,
+    "name": "Ryan Gosling",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMTQzMjkwNTQ2OF5BMl5BanBnXkFtZTgwNTQ4MTQ4MTE@._V1_.jpg",
+    "createdAt": "2022-02-06T12:13:07.832Z",
+    "updatedAt": "2022-02-06T12:13:07.832Z"
+  },
+  {
+    "id": 39,
+    "movieId": 13,
+    "name": "Ice Cube",
+    "profilePict": "https://i.discogs.com/tkjT1gMx9Wq-3IXq7WvHPIwZjgQqrJx4ZTEHfurexm4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWltYWdlcy9BLTEz/NzMyLTEyMjc1NTM0/NjcuanBlZw.jpeg",
+    "createdAt": "2022-02-06T12:13:08.865Z",
+    "updatedAt": "2022-02-06T12:13:08.865Z"
+  },
+  {
+    "id": 37,
+    "movieId": 13,
+    "name": "Jonah Hill",
+    "profilePict": "https://media.vanityfair.com/photos/61251f0bf24c51e2926dc484/master/w_2560%2Cc_limit/1217790791",
+    "createdAt": "2022-02-06T12:13:08.347Z",
+    "updatedAt": "2022-02-06T12:13:08.347Z"
+  },
+  {
+    "id": 38,
+    "movieId": 13,
+    "name": "Channing Tatum",
+    "profilePict": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Channing_Tatum_by_David_Shankbone.jpg",
+    "createdAt": "2022-02-06T12:13:08.606Z",
+    "updatedAt": "2022-02-06T12:13:08.606Z"
+  },
+  {
+    "id": 40,
+    "movieId": 14,
+    "name": "Adam Sandler",
+    "profilePict": "https://st.depositphotos.com/1694341/1303/i/450/depositphotos_13037321-stock-photo-adam-sandler.jpg",
+    "createdAt": "2022-02-06T12:32:13.480Z",
+    "updatedAt": "2022-02-06T12:32:13.480Z"
+  },
+  {
+    "id": 41,
+    "movieId": 14,
+    "name": "Kevin James",
+    "profilePict": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w425-q80/cast/cast_kevincanwait_kevinjames.jpg",
+    "createdAt": "2022-02-06T12:32:13.740Z",
+    "updatedAt": "2022-02-06T12:32:13.740Z"
+  },
+  {
+    "id": 42,
+    "movieId": 14,
+    "name": "David Spade",
+    "profilePict": "https://www.emmys.com/sites/default/files/bios/david-spade-ap-450x600.jpg",
+    "createdAt": "2022-02-06T12:32:14.000Z",
+    "updatedAt": "2022-02-06T12:32:14.000Z"
+  },
+  {
+    "id": 43,
+    "movieId": 15,
+    "name": "Michelle Chen",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMmExYjNlZDAtZTdlNC00ZGQ3LThhMzUtODY3YzdhNzhiN2M2XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+    "createdAt": "2022-02-06T12:32:14.259Z",
+    "updatedAt": "2022-02-06T12:32:14.259Z"
+  },
+  {
+    "id": 44,
+    "movieId": 15,
+    "name": "Kai Ko",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BYjRhMGQyYjgtNmVmNC00ZjdlLWFjZGQtY2VhY2I1ZWY5YTFkXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+    "createdAt": "2022-02-06T12:32:14.520Z",
+    "updatedAt": "2022-02-06T12:32:14.520Z"
+  },
+  {
+    "id": 45,
+    "movieId": 15,
+    "name": "Steven Hao",
+    "profilePict": "https://www.nautiljon.com/images/people/01/44/hao_shao_wen_83344.jpg",
+    "createdAt": "2022-02-06T12:32:14.777Z",
+    "updatedAt": "2022-02-06T12:32:14.777Z"
+  },
+  {
+    "id": 46,
+    "movieId": 16,
+    "name": "Mila Kunis",
+    "profilePict": "https://hips.hearstapps.com/hbz.h-cdn.co/assets/cm/14/52/5498b5a919633_-_hbz-mila-kunis-promo.jpg",
+    "createdAt": "2022-02-06T12:32:15.038Z",
+    "updatedAt": "2022-02-06T12:32:15.038Z"
+  },
+  {
+    "id": 47,
+    "movieId": 16,
+    "name": "Justin Timberlake",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMTUwMjE1MjU2N15BMl5BanBnXkFtZTcwNjk0ODY1NA@@._V1_.jpg",
+    "createdAt": "2022-02-06T12:32:15.297Z",
+    "updatedAt": "2022-02-06T12:32:15.297Z"
+  },
+  {
+    "id": 48,
+    "movieId": 16,
+    "name": "Woody Harrelson",
+    "profilePict": "https://fr.web.img6.acsta.net/pictures/15/11/09/16/08/462420.jpg",
+    "createdAt": "2022-02-06T12:32:15.556Z",
+    "updatedAt": "2022-02-06T12:32:15.556Z"
+  },
+  {
+    "id": 49,
+    "movieId": 17,
+    "name": "Robert Downey Jr.",
+    "profilePict": "https://i.pinimg.com/736x/0e/35/d7/0e35d739fbd3098c48f60a26effa1589--robert-downey-jr-nuest-jr.jpg",
+    "createdAt": "2022-02-06T12:32:15.814Z",
+    "updatedAt": "2022-02-06T12:32:15.814Z"
+  },
+  {
+    "id": 50,
+    "movieId": 17,
+    "name": "Chris Evans",
+    "profilePict": "https://static.wikia.nocookie.net/marvelstudios/images/a/a8/Chris_evans.jpg/revision/latest/top-crop/width/360/height/450?cb=20211215140101&path-prefix=fr",
+    "createdAt": "2022-02-06T12:32:16.072Z",
+    "updatedAt": "2022-02-06T12:32:16.072Z"
+  },
+  {
+    "id": 51,
+    "movieId": 17,
+    "name": "Chris Hemsworth",
+    "profilePict": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/c81b7b96-3fea-47b0-bc67-c695c75f0a95.jpg",
+    "createdAt": "2022-02-06T12:32:16.334Z",
+    "updatedAt": "2022-02-06T12:32:16.334Z"
+  },
+  {
+    "id": 52,
+    "movieId": 18,
+    "name": "Tom Cruise",
+    "profilePict": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tom_Cruise_by_Gage_Skidmore.jpg/800px-Tom_Cruise_by_Gage_Skidmore.jpg",
+    "createdAt": "2022-02-06T12:32:16.592Z",
+    "updatedAt": "2022-02-06T12:32:16.592Z"
+  },
+  {
+    "id": 53,
+    "movieId": 18,
+    "name": "Simon Pegg",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BNzMwODE1NjA3OV5BMl5BanBnXkFtZTgwNTY5MzM2OTE@._V1_.jpg",
+    "createdAt": "2022-02-06T12:32:16.852Z",
+    "updatedAt": "2022-02-06T12:32:16.852Z"
+  },
+  {
+    "id": 54,
+    "movieId": 18,
+    "name": "Jeremy Renner",
+    "profilePict": "https://static.wikia.nocookie.net/marvelmovies/images/2/24/Jeremy_Renner.jpg/revision/latest?cb=20210818200518",
+    "createdAt": "2022-02-06T12:32:17.114Z",
+    "updatedAt": "2022-02-06T12:32:17.114Z"
+  },
+  {
+    "id": 55,
+    "movieId": 19,
+    "name": "Lewis Tan",
+    "profilePict": "https://static.wikia.nocookie.net/mkwikia/images/a/a4/Lewis_Tan.jpg/revision/latest?cb=20190826222459",
+    "createdAt": "2022-02-06T12:32:17.376Z",
+    "updatedAt": "2022-02-06T12:32:17.376Z"
+  },
+  {
+    "id": 56,
+    "movieId": 19,
+    "name": "Hiroyuki Sanada",
+    "profilePict": "https://i.mydramalist.com/jwqyb_5f.jpg",
+    "createdAt": "2022-02-06T12:32:17.638Z",
+    "updatedAt": "2022-02-06T12:32:17.638Z"
+  },
+  {
+    "id": 57,
+    "movieId": 19,
+    "name": "Joe Taslim",
+    "profilePict": "https://upload.wikimedia.org/wikipedia/id/b/b7/Joe_Taslim_in_Fast_and_Furious_6_Premiere_Los_Angeles_2013.jpg",
+    "createdAt": "2022-02-06T12:32:17.897Z",
+    "updatedAt": "2022-02-06T12:32:17.897Z"
+  },
+  {
+    "id": 58,
+    "movieId": 20,
+    "name": "Nigihayami Kohakunushi",
+    "profilePict": "https://static.wikia.nocookie.net/studio-ghibli/images/8/89/Haku-2.png/revision/latest?cb=20201008131345",
+    "createdAt": "2022-02-06T12:32:18.155Z",
+    "updatedAt": "2022-02-06T12:32:18.155Z"
+  },
+  {
+    "id": 59,
+    "movieId": 20,
+    "name": "Chihiro Ogino",
+    "profilePict": "https://static.wikia.nocookie.net/studio-ghibli/images/8/8e/Chihiro_Ogino.jpg/revision/latest?cb=20210214130251",
+    "createdAt": "2022-02-06T12:32:18.415Z",
+    "updatedAt": "2022-02-06T12:32:18.415Z"
+  },
+  {
+    "id": 60,
+    "movieId": 20,
+    "name": "Yubaba",
+    "profilePict": "https://i.pinimg.com/474x/61/07/9d/61079d48f153b73094838f160b9b38fa.jpg",
+    "createdAt": "2022-02-06T12:32:18.688Z",
+    "updatedAt": "2022-02-06T12:32:18.688Z"
+  },
+  {
+    "id": 61,
+    "movieId": 21,
+    "name": "Andy Serkis",
+    "profilePict": "https://pbs.twimg.com/media/DjrSAYcXgAIpMEH?format=jpg&name=4096x4096",
+    "createdAt": "2022-02-06T12:32:18.948Z",
+    "updatedAt": "2022-02-06T12:32:18.948Z"
+  },
+  {
+    "id": 62,
+    "movieId": 21,
+    "name": "Jason Clarke",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BNzU5ODU0MzY1MV5BMl5BanBnXkFtZTcwMTY2MDE4OA@@._V1_.jpg",
+    "createdAt": "2022-02-06T12:32:19.208Z",
+    "updatedAt": "2022-02-06T12:32:19.208Z"
+  },
+  {
+    "id": 63,
+    "movieId": 21,
+    "name": "Keri Russell",
+    "profilePict": "https://img-9gag-fun.9cache.com/photo/aogzBVX_460s.jpg",
+    "createdAt": "2022-02-06T12:32:19.466Z",
+    "updatedAt": "2022-02-06T12:32:19.466Z"
+  },
+  {
+    "id": 88,
+    "movieId": 22,
+    "name": "brad pitt",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMTcwNzAxMDU1M15BMl5BanBnXkFtZTgwNDE2NTU1MTE@._V1_.jpg",
+    "createdAt": "2022-02-07T04:09:15.812Z",
+    "updatedAt": "2022-02-07T04:09:15.812Z"
+  },
+  {
+    "id": 89,
+    "movieId": 22,
+    "name": "angelina jolie ",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMTcwNzAxMDU1M15BMl5BanBnXkFtZTgwNDE2NTU1MTE@._V1_.jpg",
+    "createdAt": "2022-02-07T04:09:15.816Z",
+    "updatedAt": "2022-02-07T04:09:15.816Z"
+  },
+  {
+    "id": 90,
+    "movieId": 22,
+    "name": "chris pat",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMTcwNzAxMDU1M15BMl5BanBnXkFtZTgwNDE2NTU1MTE@._V1_.jpg",
+    "createdAt": "2022-02-07T04:09:15.820Z",
+    "updatedAt": "2022-02-07T04:09:15.820Z"
+  }
+]

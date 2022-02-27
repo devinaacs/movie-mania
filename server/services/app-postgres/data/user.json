@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "username": "Gary Dauberman",
+    "email": "gary@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81222444666",
+    "address": "United States of America"
+  },
+  {
+    "id": 2,
+    "username": "J. K. Rowling",
+    "email": "jk@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81263847635",
+    "address": "England"
+  },
+  {
+    "id": 3,
+    "username": "Steven Spielberg",
+    "email": "steven@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81356754298",
+    "address": "United States of America"
+  },
+  {
+    "id": 4,
+    "username": "Jon Watts",
+    "email": "jon@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81222444666",
+    "address": "United States of America"
+  },
+  {
+    "id": 5,
+    "username": "Joko Anwar",
+    "email": "joko@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81526736452",
+    "address": "Indonesia"
+  },
+  {
+    "id": 6,
+    "username": "Fede Alvarez",
+    "email": "fede@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81253678998",
+    "address": "Uruguay"
+  },
+  {
+    "id": 7,
+    "username": "Yeon Sang-ho",
+    "email": "yeon@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81625736453",
+    "address": "South Korea"
+  },
+  {
+    "id": 8,
+    "username": "Anthony McCarten",
+    "email": "anthony@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81652734896",
+    "address": "New Zealand"
+  },
+  {
+    "id": 9,
+    "username": "Damien Chazelle",
+    "email": "damien@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81567243563",
+    "address": "United State of America"
+  },
+  {
+    "id": 10,
+    "username": "Phil Lord",
+    "email": "phil@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81928472622",
+    "address": "United State of America"
+  },
+  {
+    "id": 11,
+    "username": "Dennis Dugan",
+    "email": "dennis@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81562734253",
+    "address": "United State of America"
+  },
+  {
+    "id": 12,
+    "username": "Giddens Ko",
+    "email": "giddens@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81652735439",
+    "address": "Republic of China"
+  },
+  {
+    "id": 13,
+    "username": "Will Gluck",
+    "email": "will@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81627354624",
+    "address": "United State of America"
+  },
+  {
+    "id": 14,
+    "username": "Joss Whedon",
+    "email": "joss@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81726354625",
+    "address": "United State of America"
+  },
+  {
+    "id": 15,
+    "username": "Bruce Geller",
+    "email": "bruce@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81928365432",
+    "address": "United State of America"
+  },
+  {
+    "id": 16,
+    "username": "Simon McQuoid",
+    "email": "simon@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81826345726",
+    "address": "Autralia"
+  },
+  {
+    "id": 17,
+    "username": "Hayao Miyazaki",
+    "email": "hayao@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81721159876",
+    "address": "Japan"
+  },
+  {
+    "id": 18,
+    "username": "Pierre Boulle",
+    "email": "pierre@mail.com",
+    "password": "sukses",
+    "role": "Admin",
+    "phoneNumber": "81723389876",
+    "address": "France"
+  }
+]
