@@ -1,5 +1,5 @@
 <p align=center>
-<img src="https://raw.githubusercontent.com/devinaacs/movie-mania/main/client-mobile/assets/logomm.png" height="100" /> 
+<img src="https://raw.githubusercontent.com/devinaacs/movie-mania/main/client-mobile/assets/movie-mania-navbar.png" height="100" /> 
 </p>   
 <h1 align=center> Movie Mania - Mobile App Movie Platform </h1>
  
