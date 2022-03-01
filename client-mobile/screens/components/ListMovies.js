@@ -23,7 +23,7 @@ const ListMovies = () => {
 
 
     useEffect(() => {
-        fetch('https://p3-ch2-movies.herokuapp.com/pub/movies')
+        fetch('https://movie-mania-be-pg.herokuapp.com/pub/movies')
             .then((response) => response.json())
             .then((json) => {
                 setBackground(json[0])

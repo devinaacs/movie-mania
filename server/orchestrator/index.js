@@ -92,6 +92,9 @@ const typeDefs = gql`
     }
 `
 
+const heroku_pg = 'https://movie-mania-be-pg.herokuapp.com/pub/movies'
+const heroku_mo = 'https://movie-mania-be-mo.herokuapp.com/users'
+
 const resolvers = {
     Query: {
         async getMovies() {
@@ -103,7 +106,7 @@ const resolvers = {
                 } else {
                     const movies = await axios({
                         method: 'GET',
-                        url: 'https://p3-ch2-movies.herokuapp.com/pub/movies'
+                        url: `${heroku_pg}`
                     })
                     await redis.set('movies', JSON.stringify(movies.data))
                     return movies.data
@@ -118,7 +121,7 @@ const resolvers = {
             try {
                 const movie = await axios({
                     method: 'GET',
-                    url: `https://p3-ch2-movies.herokuapp.com/pub/movies/${args.id}`
+                    url: `${heroku_pg}/${args.id}`
                 })
                 return movie.data
             } catch (err) {
@@ -131,7 +134,7 @@ const resolvers = {
             try {
                 const users = await axios({
                     method: 'GET',
-                    url: 'hthttps://p3-ch2-mongo.herokuapp.com/users'
+                    url: `${heroku_mo}`
                 })
                 return users.data
             } catch (err) {
@@ -144,7 +147,7 @@ const resolvers = {
             try {
                 const user = await axios({
                     method: 'GET',
-                    url: `https://p3-ch2-mongo.herokuapp.com/users/${args.id}`
+                    url: `${heroku_mo}/${args.id}`
                 })
                 return user.data
             } catch (err) {
@@ -159,7 +162,7 @@ const resolvers = {
             try {
                 const newMovie = await axios({
                     method: 'POST',
-                    url: 'https://p3-ch2-movies.herokuapp.com/pub/movies',
+                    url: `${heroku_pg}`,
                     data: args.data
                 })
                 await redis.del('movies')
@@ -174,7 +177,7 @@ const resolvers = {
             try {
                 const updateMovie = await axios({
                     method: 'PUT',
-                    url: `https://p3-ch2-movies.herokuapp.com/pub/movies/${args.id}`,
+                    url: `${heroku_pg}/${args.id}`,
                     data: args.data
                 })
                 await redis.del('movies')
@@ -189,7 +192,7 @@ const resolvers = {
             try {
                 const destroyMovie = await axios({
                     method: 'DELETE',
-                    url: `https://p3-ch2-movies.herokuapp.com/pub/movies/${args.id}`,
+                    url: `${heroku_pg}/${args.id}`,
                 })
                 await redis.del('movies')
                 return destroyMovie.data
@@ -203,7 +206,7 @@ const resolvers = {
             try {
                 const newUser = await axios({
                     method: 'POST',
-                    url: 'https://p3-ch2-mongo.herokuapp.com/users',
+                    url: `${heroku_mo}`,
                     data: args.data
                 })
                 return newUser.data
@@ -216,7 +219,7 @@ const resolvers = {
             try {
                 const destroyUser = await axios({
                     method: 'DELETE',
-                    url: `https://p3-ch2-mongo.herokuapp.com/users/${args.id}`,
+                    url: `${heroku_mo}/${args.id}`,
                 })
                 return destroyUser.data
             } catch (err) {

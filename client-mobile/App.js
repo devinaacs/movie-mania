@@ -14,7 +14,7 @@ const App = () => {
     <ApolloProvider client={apolloClient}>
       <NavigationContainer>
         <Stack.Navigator>
-          <Stack.Screen name="Home" component={Home} options={{ title: 'Welcome to HackTix-XXI' }} />
+          <Stack.Screen name="Home" component={Home} options={{ title: 'Welcome to Movie Mania' }} />
           <Stack.Screen name="Movies" component={Movies} options={{ title: 'Movie Details' }} />
         </Stack.Navigator>
       </NavigationContainer>

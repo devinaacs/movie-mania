@@ -1,6 +1,6 @@
 import { StyleSheet, Text, Image, View, Alert, TouchableOpacity } from "react-native";
 import React from "react";
-import logohtx from '../../assets/logohtx.png'
+import logomm from '../../assets/movie-mania-navbar.png'
 import ticket from '../../assets/ticket.png'
 import location from '../../assets/location.png'
 
@@ -21,7 +21,7 @@ const Navbar = () => {
                 </TouchableOpacity>
             </View >
             <View style={[styles.box1]}>
-                <Image source={logohtx} style={styles.logoImg} ></Image>
+                <Image source={logomm} style={styles.logoImg} ></Image>
             </View>
             <View style={[styles.box]}>
                 <TouchableOpacity onPress={() => Alert.alert(
